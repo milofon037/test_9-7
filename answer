@@ -1,0 +1,5 @@
+git log --graph
+или
+git log --graph --oneline --decorate
+или
+git log --graph --oneline
